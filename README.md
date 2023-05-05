@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
+![MasterHead](https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/cyberpunk-pixel-wallpapers-top-free-cyberpunk-pixel-backgrounds--wallpaperaccess.gif)
 <h1 align="center">Hi 👋, I'm Vinicius Yamashita</h1>
 <h3 align="center">I'm Software Engineer</h3>
 
