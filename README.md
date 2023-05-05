@@ -2,17 +2,17 @@
 <img  width="1000" height="390" src="https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif" alt="Viniyama23" />
 <h1 align="center">Hi 👋, I'm Vinicius Yamashita</h1>
 <h2 align="center">I'm Software Engineer</h2>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning ****Front-end and Back-end, I really like code in back end and learning more of**
+- 🌱 I'm currently learning **Front-end and Back-end, I like to code in both types of language**
 
 - 📫 How to reach me **vyamashita45@gmail.com**
 
-- ⚡ Fun fact ****I really like know more of Python and Front-end**
+- ⚡ Fun fact **I really like to study more about Back-end and Front-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/pretojaponess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pretojaponess" height="30" width="40" /></a>
+<a href="https://twitter.com/https://https:/twitter.com/pretojaponess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pretojaponess" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/https://www.linkedin.com/https://www.linkedin.com/in/vinicius-yamashita-1577b4267//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-yamashita-1577b4267/" height="30" width="40" /></a>
 <a href="https://fb.com/vini yamashita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vini yamashita" height="30" width="40" /></a>
 <a href="https://instagram.com/v.yamashita23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.yamashita23" height="30" width="40" /></a>
