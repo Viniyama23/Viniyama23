@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![MasterHead](https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif)
 <h1 align="center">Hi 👋, I'm Vinicius Yamashita</h1>
 <h3 align="center">I'm Software Engineer</h3>
 
