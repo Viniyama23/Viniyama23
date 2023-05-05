@@ -1,7 +1,8 @@
 <!--![MasterHead](https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif)-->
 <img  width="1000" height="390" src="https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif" alt="Viniyama23" />
 <h1 align="center">Hi 👋, I'm Vinicius Yamashita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">I'm Software Engineer</h2>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning ****Front-end and Back-end, I really like code in back end and learning more of**
 
