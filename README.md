@@ -1,5 +1,5 @@
 <!--![MasterHead](https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif)-->
-<img  width="1000" height="460" src="https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif" alt="Viniyama23" />
+<img  width="1000" height="390" src="https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif" alt="Viniyama23" />
 <h1 align="center">Hi 👋, I'm Vinicius Yamashita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
