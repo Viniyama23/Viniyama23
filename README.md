@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Yamashita</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, React, JAVA and Cyber security**
+- 🌱 I’m currently learning **Python, React, JAVA and Cybersecurity**
 
 - 📫 How to reach me **vyamashita45@gmail.com**
 
